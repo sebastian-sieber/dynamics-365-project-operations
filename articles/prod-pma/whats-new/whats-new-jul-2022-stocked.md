@@ -21,7 +21,7 @@ This article applies to the following components and versions of Microsoft Dynam
 
 ## Quality updates
 
-For information about the bug fixes that are included in this update, sign in to Microsoft Dynamics Lifecycle Services (LCS), and view the [KB article](https://fix.lcs.dynamics.com/Issue/Details?bugId=694438).
+For information about the bug fixes that are included in this update, sign in to Microsoft Dynamics Lifecycle Services, and view the [KB article](https://fix.lcs.dynamics.com/Issue/Details?bugId=694438).
 
 ## Features turned on by default in upcoming release
 

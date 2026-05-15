@@ -17,11 +17,11 @@ _**Applies To:** Project Operations for manufacturing-based scenarios_
 
 ## Quality updates
 
-For information about the fixes included in this update, sign in to Lifecycle Services (LCS) and view the [KB article](https://fix.lcs.dynamics.com/Issue/Details?bugId=488609&amp;dbType=3&amp;qc=8251e8e1d5e2386de850599926c1adc3fec8e2ba25308036d22cdfe0a1c28fc7).
+For information about the fixes included in this update, sign in to Lifecycle Services and view the [KB article](https://fix.lcs.dynamics.com/Issue/Details?bugId=488609&amp;dbType=3&amp;qc=8251e8e1d5e2386de850599926c1adc3fec8e2ba25308036d22cdfe0a1c28fc7).
 
 ## Regulatory updates
 
-For information about regulatory updates for Dynamics 365 finance and operations apps, see [Regulatory updates](/dynamics365/finance/localizations/regulatory-updates). You can also sign in to LCS and view the planned regulatory updates using the Issue search tool. Issue search lets you search by country/region, type of feature, and release.
+For information about regulatory updates for Dynamics 365 finance and operations apps, see [Regulatory updates](/dynamics365/finance/localizations/regulatory-updates). You can also sign in to Lifecycle Services and view the planned regulatory updates using the Issue search tool. Issue search lets you search by country/region, type of feature, and release.
 
 
 [!INCLUDE[footer-include](../../includes/footer-banner.md)]
